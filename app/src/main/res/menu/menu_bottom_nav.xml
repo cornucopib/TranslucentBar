@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/bottom_nav_of_home_page"
+        android:enabled="true"
+        android:icon="@drawable/home_page_ic"
+        android:title="@string/home_page_text"
+        app:showAsAction="ifRoom" />
+    <item
+        android:id="@+id/bottom_nav_of_my_bussiness"
+        android:enabled="true"
+        android:icon="@drawable/my_bussiness_ic"
+        android:title="@string/my_bussiness_text"
+        app:showAsAction="ifRoom" />
+
+    <item
+        android:id="@+id/bottom_nav_of_user_center"
+        android:enabled="true"
+        android:icon="@drawable/user_center_ic"
+        android:title="@string/user_center_text"
+        app:showAsAction="ifRoom" />
+
+</menu>

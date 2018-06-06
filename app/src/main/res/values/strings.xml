@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">TranslucentBar</string>
+
+    <string name="home_page_text">首页</string>
+    <string name="my_bussiness_text">我的业务</string>
+    <string name="user_center_text">会员中心</string>
+</resources>
